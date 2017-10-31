@@ -1,0 +1,16 @@
+.display-text {
+  color: white;
+  padding: 2px;
+}
+span {
+  padding: 10px;
+}
+#display {
+  background: grey;
+  width: 200px;
+  height: 50px;
+}
+.functions {
+  margin-top: 5px;
+  padding: 10px;
+}
